@@ -13,3 +13,7 @@ Los ejercicios de fuerza implican trabajar los músculos contra una resistencia 
 2. Realiza levantamiento de pesas, ejercicios con bandas elásticas o peso corporal (como sentadillas o flexiones).
 3. Haz 3-4 series de 8-12 repeticiones por ejercicio.
 4. Finaliza con estiramientos de los músculos trabajados.
+
+## Consejos
+- Mantén una técnica correcta para evitar lesiones.
+- Aumenta progresivamente el peso o la dificultad.
