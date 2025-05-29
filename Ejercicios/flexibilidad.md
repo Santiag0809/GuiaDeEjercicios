@@ -14,3 +14,6 @@ Los ejercicios de flexibilidad mejoran el rango de movimiento de las articulacio
 3. Trabaja todos los grupos musculares principales.
 4. Hazlo al final del entrenamiento o en sesiones específicas.
 
+## Consejos
+- No fuerces los estiramientos.
+- Respira profundamente durante cada movimiento.
