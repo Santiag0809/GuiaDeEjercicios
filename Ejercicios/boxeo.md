@@ -13,3 +13,7 @@ El boxeo combina resistencia, fuerza y agilidad a través de movimientos explosi
 2. Realiza combinaciones de golpes con saco o en el aire.
 3. Alterna entre rounds de 3 minutos de trabajo y 1 minuto de descanso.
 4. Termina con estiramientos y respiración profunda.
+
+## Consejos
+- Usa vendas y guantes para proteger tus manos.
+- Trabaja la técnica antes de aumentar la intensidad.
