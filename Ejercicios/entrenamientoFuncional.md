@@ -14,3 +14,6 @@ El entrenamiento funcional consiste en ejercicios que imitan movimientos cotidia
 3. Haz 3 rondas de 6-10 ejercicios funcionales.
 4. Termina con ejercicios de movilidad y estiramientos.
 
+## Consejos
+- Prioriza la calidad del movimiento sobre la cantidad.
+- Usa implementos como pesas rusas, balones o bandas.
