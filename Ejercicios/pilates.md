@@ -13,3 +13,7 @@ El Pilates es un método de ejercicio que se centra en fortalecer el core, mejor
 2. Haz ejercicios como el "hundred", el "roll-up" o el "single leg stretch".
 3. Realiza de 8 a 12 repeticiones por ejercicio.
 4. Enfría con estiramientos suaves.
+
+## Consejos
+- Mantén el control y la fluidez en cada movimiento.
+- Enfócate en la respiración consciente.
