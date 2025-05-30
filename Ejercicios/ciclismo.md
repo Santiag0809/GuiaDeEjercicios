@@ -13,3 +13,7 @@ El ciclismo es una actividad cardiovascular de bajo impacto que fortalece las pi
 2. Realiza un calentamiento pedaleando suavemente durante 5-10 minutos.
 3. Mantén un ritmo constante durante 30 a 60 minutos.
 4. Finaliza con una fase de enfriamiento y estiramiento.
+
+## Consejos
+- Usa casco y equipo de protección.
+- Hidrátate adecuadamente durante el trayecto.
