@@ -13,3 +13,7 @@ El yoga combina posturas físicas, respiración y meditación para mejorar el bi
 2. Realiza una secuencia de posturas (asanas) como el perro boca abajo o la postura del árbol.
 3. Mantén cada postura durante 30 segundos a 1 minuto.
 4. Finaliza con una relajación profunda (savasana).
+
+## Consejos
+- Practica en un ambiente tranquilo.
+- Escucha a tu cuerpo y adapta las posturas si es necesario.
